@@ -1,0 +1,6 @@
+{
+  "name": "Global AI Shopping Agent",
+  "description": "An AI shopping agent combining worldwide platforms for groceries, food delivery, movie tickets, eyewear, and electronics with cross-border comparison and unified ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
